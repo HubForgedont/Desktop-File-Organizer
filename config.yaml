@@ -1,0 +1,68 @@
+categories:
+  Documents:
+  - .pdf
+  - .docx
+  - .txt
+  - .doc
+  - .rtf
+  - .odt
+  - .xlsx
+  - .pptx
+  - .csv
+  Images:
+  - .jpg
+  - .jpeg
+  - .png
+  - .gif
+  - .bmp
+  - .svg
+  - .webp
+  - .tiff
+  Videos:
+  - .mp4
+  - .mov
+  - .avi
+  - .mkv
+  - .wmv
+  - .flv
+  - .webm
+  Audio:
+  - .mp3
+  - .wav
+  - .ogg
+  - .flac
+  - .aac
+  - .m4a
+  Archives:
+  - .zip
+  - .rar
+  - .7z
+  - .tar
+  - .gz
+  - .bz2
+  Code:
+  - .py
+  - .js
+  - .html
+  - .css
+  - .java
+  - .cpp
+  - .c
+  - .go
+  - .php
+  - .rb
+  - .json
+  - .xml
+  Executables:
+  - .exe
+  - .msi
+  - .app
+  - .dmg
+  - .sh
+excluded_files:
+- .DS_Store
+- desktop.ini
+- Thumbs.db
+excluded_folders:
+- Organized_Files
+target_directory: Organized_Files
